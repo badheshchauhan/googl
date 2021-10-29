@@ -30,4 +30,3 @@ Install via `make install` or `sudo make install`. There is no `make build`.
     googl http://en.wikipedia.org/
 
     googl http://goo.gl/Y9So
-
